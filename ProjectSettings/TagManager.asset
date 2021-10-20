@@ -3,7 +3,19 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Plateform
+  - Enemy
+  - Death
+  - CheckPoint
+  - Coin
+  - Potion
+  - Boost
+  - Slow
+  - SlowZone
+  - Deboost
+  - Door
+  - Bullet
   layers:
   - Default
   - TransparentFX
